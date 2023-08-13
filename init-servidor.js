@@ -5,5 +5,5 @@ const server = http.createServer((req, res)=> {
     res.end('Estamos Online')
 })
 server.listen(3000, 'localhost', () => {
-    console.log('Servidor rodando na porta http://localhost:3000q')
+    console.log('Servidor rodando na porta http://localhost:3000/')
 })
