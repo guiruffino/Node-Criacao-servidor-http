@@ -1,2 +1,2 @@
 #  Criação Servidor http em Node
-Projeto inicial sobre criação de servidor HTTP baciso
+Projeto inicial sobre criação de servidor HTTP basico
